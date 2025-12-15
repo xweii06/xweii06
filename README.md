@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xweii06/xweii06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
